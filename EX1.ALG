@@ -1,15 +1,15 @@
 Algoritmo "Ex01"
-// Disciplina  :  [ALGORITMOS E PROGRAMAÇÃO]
+// Disciplina  :  [ALGORITMOS E PROGRAMAï¿½ï¿½O]
 // Professor   : Nelson Paz
-// Descrição   : "Exercicio 1"
-// Autor(a)    : Kauã Felipe da Silva Jenior
+// Descriï¿½ï¿½o   : "Exercicio 1"
+// Autor(a)    : KauÃ£ Felipe da Silva Jenior
 // Data atual  : 04/03/2024
 Var
-// Seção de Declarações das variáveis
+// SeÃ§ao de DeclaraÃ§oes das variveis
 base,altura,area,perimetro:inteiro;
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... .
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... .
 escreva("Informe a base do retangulo: ")
 leia (base)
 escreva("Informe a altura do retangulo: ")
@@ -18,8 +18,8 @@ leia (altura)
 area<- base*altura
 perimetro <- 2 *(base+altura)
 escreval("-------------------------------------------")
-escreval("a area do retangulo é:",area)
-escreval("A  perimetro do retangulo é:", perimetro)
+escreval("a area do retangulo :",area)
+escreval("A  perimetro do retangulo :", perimetro)
 escreval("-------------------------------------------")
 
 
