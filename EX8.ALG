@@ -1,7 +1,7 @@
 Algoritmo "ex8"
 // Disciplina   : [Algoritimos e Programação]
 // Professor   : Nelson Paz 
-// Descrição   : ex8
+// Descrição   : trasnforma a temperatura de Fahrenheit para Celsius
 // Autor(a)    : Kauã Felipe da Silva Jenior
 // Data atual  : 11/03/2024
 Var

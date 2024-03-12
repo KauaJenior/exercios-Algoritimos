@@ -1,7 +1,7 @@
 Algoritmo "Ex3"
 // Disciplina  :  [ALGORITMOS E PROGRAMAÇÃO]
 // Professor   : Nelson Paz
-// Descrição   : "Exercicio 3"
+// Descrição   : "Calcular a area e o perimetro da circufêrencia"
 // Autor(a)    : Kauã Felipe da Silva Jenior
 // Data atual  : 04/03/2024
 Var

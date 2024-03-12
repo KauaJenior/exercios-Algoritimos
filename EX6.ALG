@@ -1,7 +1,7 @@
 Algoritmo "EX6"
 // Disciplina   : [Algoritimos e Programação]
 // Professor   : Nelson Paz
-// Descrição   : Exercicio 6
+// Descrição   : Exibe o quociente e resto de uma divisão
 // Autor(a)    : Kauã Felipe da Silva Jenior
 // Data atual  : 11/03/2024
 Var
@@ -19,7 +19,7 @@ Inicio
 
    quociente <- Dividendo / Divisor
    resto <-  Dividendo % divisor
-   
+   escreval("------------------------------------")
    escreval("O quociente da divisão é: ",quociente)
    escreva("O resto é: ",resto)
 

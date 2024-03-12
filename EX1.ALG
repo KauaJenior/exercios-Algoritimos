@@ -1,7 +1,7 @@
 Algoritmo "Ex01"
 // Disciplina  :  [ALGORITMOS E PROGRAMA��O]
 // Professor   : Nelson Paz
-// Descri��o   : "Exercicio 1"
+// Descri��o   : Calcula a area e o perimetro do retangulo
 // Autor(a)    : Kauã Felipe da Silva Jenior
 // Data atual  : 04/03/2024
 Var

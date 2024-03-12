@@ -1,7 +1,7 @@
 Algoritmo "Ex2"
 // Disciplina  :  [ALGORITMOS E PROGRAMAÇÃO]
 // Professor   : Nelson Paz
-// Descrição   : "Exercicio 2"
+// Descrição   : Calcua a area e o perimetro do quadrado
 // Autor(a)    : Kauã Felipe da Silva Jenior
 // Data atual  : 04/03/2024
 Var

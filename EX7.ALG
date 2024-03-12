@@ -1,7 +1,7 @@
 Algoritmo "ex7"
 // Disciplina   : [Algoritimos e Programação]
 // Professor   : Nelson Paz 
-// Descrição   : ex7
+// Descrição   : informa a idade em anos e em meses do usuario
 // Autor(a)    : Kauã Felipe da Silva Jenior
 // Data atual  : 11/03/2024
 Var

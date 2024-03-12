@@ -1,7 +1,7 @@
 Algoritmo "EX04"
 // Disciplina  :  [ALGORITMOS E PROGRAMAÇÃO]
 // Professor   : Nelson Paz
-// Descrição   : "Exercicio 4"
+// Descrição   : "Calcula o perimetro do triângulo"
 // Autor(a)    : Kauã Felipe da Silva Jenior
 // Data atual  : 04/03/2024
 Var
